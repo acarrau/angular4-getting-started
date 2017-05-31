@@ -1,2 +1,1 @@
-
-#Angular 4 Getting Started project
+# Angular 4 Getting Started project
